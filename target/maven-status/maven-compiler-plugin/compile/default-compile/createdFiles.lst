@@ -1,0 +1,7 @@
+com\nequi\franquicias\FranquiciasApiApplication.class
+com\nequi\franquicias\controller\FranquiciaController.class
+com\nequi\franquicias\model\Franquicia.class
+com\nequi\franquicias\model\Producto.class
+com\nequi\franquicias\model\Sucursal.class
+com\nequi\franquicias\repository\FranquiciaRepository.class
+com\nequi\franquicias\service\FranquiciaService.class
