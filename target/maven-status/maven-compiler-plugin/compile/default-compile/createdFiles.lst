@@ -5,3 +5,4 @@ com\nequi\franquicias\model\Producto.class
 com\nequi\franquicias\model\Sucursal.class
 com\nequi\franquicias\repository\FranquiciaRepository.class
 com\nequi\franquicias\service\FranquiciaService.class
+com\nequi\franquicias\config\OpenApiConfig.class

@@ -55,6 +55,8 @@ Endpoints disponibles:
   - PUT `/franquicias/{id}/sucursales/{idSucursal}/productos/{idProducto}/stock` (modificar stock)  
   - GET `/franquicias/{id}/productos/mayor-stock` (producto mayor stock por sucursal)  
 
+Documentacio
+  - http://localhost:8080/swagger-ui.html
 Desarrollado:  
   Santiago Soto Vallejo
   sant4562@gmail.com
